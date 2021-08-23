@@ -1,4 +1,4 @@
-# Demo
+# Profile
 
 - 👋 Hi, I’m @yoyoFC
 - 👀 I’m interested in microcontrollers, SCADAs and programmimg languages. 
